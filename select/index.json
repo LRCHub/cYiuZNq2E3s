@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "krank",
+  "base_artist": "有機酸",
+  "createdAt": "2026-03-24T05:26:24.317361Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Krank",
+      "artist": "LaFee",
+      "has_synced": true,
+      "path": "select/01_Krank_LaFee.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Krank",
+      "artist": "Yeat",
+      "has_synced": true,
+      "path": "select/02_Krank_Yeat.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Krank It Up",
+      "artist": "Front Line Assembly",
+      "has_synced": false,
+      "path": "select/03_Krank_It_Up_Front_Line_Assembly.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Krank",
+      "artist": "Paul Kalkbrenner",
+      "has_synced": true,
+      "path": "select/04_Krank_Paul_Kalkbrenner.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Krank",
+      "artist": "KMFDM",
+      "has_synced": false,
+      "path": "select/05_Krank_KMFDM.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Krank",
+      "artist": "Hava",
+      "has_synced": true,
+      "path": "select/06_Krank_Hava.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Krank",
+      "artist": "Kool Savas",
+      "has_synced": true,
+      "path": "select/07_Krank_Kool_Savas.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Weißt Du, wie krank dich Liebe machen kann?",
+      "artist": "Udo Jürgens",
+      "has_synced": true,
+      "path": "select/08_Weißt_Du,_wie_krank_dich_Liebe_machen_kann_Udo_Jürgens.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "TV macht krank",
+      "artist": "Umbra et Imago",
+      "has_synced": false,
+      "path": "select/09_TV_macht_krank_Umbra_et_Imago.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ich Bin Krank",
+      "artist": "Joost",
+      "has_synced": true,
+      "path": "select/10_Ich_Bin_Krank_Joost.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wir sind krank",
+      "artist": "Punch Arogunz",
+      "has_synced": true,
+      "path": "select/11_Wir_sind_krank_Punch_Arogunz.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Keine von uns ist krank",
+      "artist": "The Toten Crackhuren Im Kofferraum (TCHIK)",
+      "has_synced": true,
+      "path": "select/12_Keine_von_uns_ist_krank_The_Toten_Crackhuren_Im_Kofferraum_(TCHIK).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Krank",
+      "artist": "Diary of Dreams",
+      "has_synced": true,
+      "path": "select/13_Krank_Diary_of_Dreams.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Krank",
+      "artist": "Hava",
+      "has_synced": true,
+      "path": "select/14_Krank_Hava.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "krank",
+      "artist": "ewe",
+      "has_synced": true,
+      "path": "select/15_krank_ewe.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ihr seid doch krank (Banger mix)",
+      "artist": "Finger & Kadel",
+      "has_synced": false,
+      "path": "select/16_Ihr_seid_doch_krank_(Banger_mix)_Finger_&_Kadel.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "krank",
+      "artist": "有機酸",
+      "has_synced": false,
+      "path": "select/pl_01_krank_有機酸.txt"
+    }
+  ]
+}
